@@ -1,0 +1,4 @@
+# Core dependencies for the conversion code GUI application
+# No external dependencies required - using built-in tkinter for GUI and sqlite3 for database
+# For SQL Server connection (optional):
+# pyodbc>=4.0.0
